@@ -1,1 +1,1 @@
-print("Iam the best programmer in the world")
+print("Hello world")
